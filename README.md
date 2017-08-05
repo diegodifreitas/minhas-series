@@ -4,15 +4,15 @@ Aplicação desenvolvida com base no curso de React da DevPleno. O intuito da ap
 
 ## Getting Started
 
-npm install
-npm install -g json-server
-npm run start
-localhost:3000
+* npm install
+* npm install -g json-server
+* npm run start
+* localhost:3000
 
 ### Prerequisites
 
-node 6+
-npm
+* node 6+
+* npm
 
 ## Running the tests
 
